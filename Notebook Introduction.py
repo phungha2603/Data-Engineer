@@ -10,7 +10,7 @@
 
 # COMMAND ----------
 
-message = 'lozzzz'
+message = 'lozzzzzzz'
 
 # COMMAND ----------
 
